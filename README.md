@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<h1 align="center">Welcome 👋, I'm agustin</h1>
+<h1 align="center">Welcome 👋, I'm Agustin</h1>
 <h3 align="center">A passionate backend developer</h3>
 
 - 💬 Ask me about **TypeScript, Node.js, APIs**
