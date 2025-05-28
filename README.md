@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p>
-  <a href="https://www.linkedin.com/in/agust%C3%ADn-ibarra-259637262/" target="_blanck">
+  <a href="https://www.linkedin.com/in/agust%C3%ADn-ibarra-259637262/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/agustin_hk/" target="_blanck">
+  <a href="https://www.instagram.com/agustin_hk/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
