@@ -3,7 +3,7 @@
 <h1 align="center">Welcome 👋, I'm Agustin</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 💬 Ask me about **TypeScript, Node.js, APIs**
+- 💬 Ask me about **C#, ASP.NET, TypeScript, Node.js, APIs**
 
 - 📫 How to reach me **agustin.ibarra.c@gmail.com**
 
@@ -16,6 +16,10 @@
   <a target="_blank" href="https://www.instagram.com/agustin_hk/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=discord"/>
+    AgustinAtl#7093
+  </p>
 </p>
 </p>
 
